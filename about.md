@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-关于test
+关于
